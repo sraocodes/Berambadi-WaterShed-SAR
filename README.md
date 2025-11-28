@@ -53,7 +53,7 @@ berambadi-watershed-sar/
 
 | File | Description |
 |------|-------------|
-| `watershed_analysis.py` | Main script with all processing functions |
+| `watershed_sar_backscatter.py` | Main script with all processing functions |
 | `boundary.geojson` | Watershed boundary polygon |
 | `data/berambadi_centroids.csv` | Mesh centroid locations |
 | `data/berambadi_backscatter.csv` | Extracted backscatter values for all dates |
